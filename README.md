@@ -17,6 +17,6 @@ Aqui estão alguns dos gráficos gerados pela análise:
 ![Local vs Método de Óbito](local_vs_metodo_obito.png)
 
 ## Tecnologias e Ferramentas: ##
-* Linguagem: Python (ou R, conforme você usou).
+* Linguagem: Python.
 * Bibliotecas: Pandas, Matplotlib, Seaborn (para os gráficos).
 * Fonte de Dados: IBGE 
